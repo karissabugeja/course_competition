@@ -1,0 +1,90 @@
+
+
+body {
+  background-color: #ffef96;
+}
+
+
+
+h1 { color: red;
+  font-size: 100px;
+  text-align: center;
+}
+
+ h2 { color: red;
+  font-size: 40px;
+  text-align: center;
+}
+} .test { color: pink
+
+}
+
+p { color: red;
+   font-size: 50px;
+   text-align: left;
+ }
+
+
+.button1 {
+    background-color: white;
+    color: black;
+    border: 2px solid red;
+}
+
+.button1:hover {
+    background-color: red;
+    color: white;
+}
+
+.button2 {
+    background-color: white;
+    color: black;
+    border: 2px solid yellow;
+}
+
+.button2:hover {
+    background-color: yellow;
+    color: white;
+}
+
+.button3 {
+    background-color: white;
+    color: black;
+    border: 2px solid blue;
+}
+
+.button3:hover {
+    background-color: blue;
+    color: white;
+}
+
+.button4 {
+    background-color: white;
+    color: black;
+    border: 2px solid green;
+}
+
+.button4:hover {
+  background-color: green;
+}
+
+.button5 {
+    background-color: white;
+    color: black;
+    border: 2px solid brown;
+  }
+
+.button5:hover {
+    background-color: brown;
+    color: white;
+  }
+
+p { color: green;
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
